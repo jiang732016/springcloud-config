@@ -13,10 +13,10 @@ spring:
           ####搜索目录
           search-paths:
             - springcloud-config
-          default-label: master
           skip-ssl-validation: true
           username: jiang732016
           password: jgb18697989360
+        laber: master
 #rabbitmq相关配置
 rabbitmq:
   host: localhost
